@@ -1,2 +1,2 @@
-# Django REST Framework Demo
+# Django Rest Demo
  
